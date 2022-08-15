@@ -4,7 +4,7 @@ Zur Erstellung der Abbildung 2 (Gastgewerbe hinkt hinterher) bracuth man die csv
 
 Zur Erstellung der Abbildung 3 ("Transport ist teuer!") braucht man die csv-Datei "Erzeugerpreise_real.csv"
 
-Die bereinigten Datein sind im Ordner "Daten Clean"
+Die bereinigten Datein sind im Ordner "Daten Clean". Die relevanten Spalten sind jeweils nur "Date" und "Value". Alle Daten stammen vom Statistischen Bundesamt.
 
 Das R-File reproduziert alle Grafiken, man muss nur den file path bei "setwd" austauschen.
 
