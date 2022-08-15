@@ -1,8 +1,10 @@
-Zur Erstellung der Abbildung 1 (Dienstleistung über Güter) braucht man die csv-Dateien "Verbrauchsgüter_clean", "Gebrauchsgüter_clean", und "Goods and Services_clean".
+Zur Erstellung der Abbildung 1 (Dienstleistung über Güter) braucht man die csv-Dateien "Verbrauchsgüter", "Gebrauchsgüter", und "Goods and Services".
 
-Zur Erstellung der Abbildung 2 (Gastgewerbe hinkt hinterher) bracuth man die csv-Dateien "Gastgewerbe_clean.csv"
+Zur Erstellung der Abbildung 2 (Gastgewerbe hinkt hinterher) bracuth man die csv-Dateien "Gastgewerbe.csv"
 
-Zur Erstellung der Abbildung 3 ("Transport ist teuer!") braucht man die csv-Datei "Erzeugerpreise_real_clean.csv"
+Zur Erstellung der Abbildung 3 ("Transport ist teuer!") braucht man die csv-Datei "Erzeugerpreise_real.csv"
+
+Die bereinigten Datein sind im Ordner "Daten Clean"
 
 Das R-File reproduziert alle Grafiken, man muss nur den file path bei "setwd" austauschen.
 
